@@ -7,3 +7,8 @@ source        : ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇�
 compression.ai: ▇▇▇▇▇▇▇▇ 8.90M
 imager        : ▇▇▇▇ 4.20M
 ```
+
+# Warning:
+
+If you’re running your own benchmarks, some sites will automatically resize images if they exceed a certain resolution. This will distort the results! Personally this happened to me during a live presentation. 
+
