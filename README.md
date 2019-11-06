@@ -16,3 +16,6 @@ imager        : ▇▇▇▇ 4.20M
 
 If you’re running your own benchmarks, some sites will automatically resize images if they exceed a certain resolution. This will distort the results! Personally this happened to me during a live presentation. 
 
+# Credits
+
+All images are from [pexels.com](https://www.pexels.com).
