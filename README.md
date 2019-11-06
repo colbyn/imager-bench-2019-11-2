@@ -1,3 +1,7 @@
+# [Imager](https://github.com/imager-io/imager)
+Note that [Imager](https://github.com/imager-io/imager) has moved from my personal account to the `imager-io` GitHub origination [here](https://github.com/imager-io/imager).
+
+
 # Results
 
 > Or just `du -h source && du -h compression.ai && du -h imager`.
