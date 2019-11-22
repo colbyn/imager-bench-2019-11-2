@@ -14,6 +14,12 @@ compression.ai: ▇▇▇▇▇▇▇▇ 8.90M
 imager        : ▇▇▇▇ 4.20M
 ```
 
+Links:
+* [kraken.io](https://kraken.io)
+* [jpegmini](https://www.jpegmini.com)
+* [compression.ai](https://compression.ai)
+* [imager](https://github.com/imager-io/imager)
+
 # Warning:
 
 If you’re running your own benchmarks, some sites will automatically resize images if they exceed a certain resolution. This will distort the results! Personally this happened to me during a live presentation. 
